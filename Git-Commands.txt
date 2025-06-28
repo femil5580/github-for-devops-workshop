@@ -2,3 +2,8 @@ git init
 git status 
 git commit -m "  "
 git restore 
+
+
+git remote -v
+git push origin master
+git remote set-url origin https://Token@github.com/YourRepoPath
