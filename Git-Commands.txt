@@ -7,3 +7,5 @@ git restore
 git remote -v
 git push origin master
 git remote set-url origin https://Token@github.com/YourRepoPath
+
+Hello This is some new changes
